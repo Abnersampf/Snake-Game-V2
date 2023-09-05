@@ -22,10 +22,6 @@ class Program
             Render();
             Thread.Sleep(90);
         }
-        Console.Clear();
-        Console.SetCursorPosition((gWidth / 2) - 4, gHeight / 2);
-        Console.Write($"Score: {points}");
-        Console.SetCursorPosition(0, gHeight);
     }
     static void Render()
     {

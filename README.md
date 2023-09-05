@@ -13,8 +13,31 @@ IMPORTANT:
 
 <br>
 
-GAME IMAGES:
-- Start screen. The snake is represented by the character 'S' and the food by the character 'F'. The snake starts off stationary, use the W, A, S, D keys to move.
+START SCREEN:
+- The snake is represented by the character 'S' and the food by the character 'F'. The snake starts off stationary, use the W, A, S, D keys to move.
 <div>
   <img src="https://github.com/Abnersampf/Snake-Game-V2/assets/58574013/cb405ca8-24a1-45e8-8182-d0c89cdb0230" width="900px"/>
+</div>
+
+<br>
+
+GAME IMAGES:
+- 6-part snake.
+<div>
+  <img src="https://github.com/Abnersampf/Snake-Game-V2/assets/58574013/1a3b5a67-46be-428c-a99a-061bfab9f6f8" width="900px"/>
+</div>
+
+<br>
+
+- Moving snake.
+<div>
+  <img src="https://github.com/Abnersampf/Snake-Game-V2/assets/58574013/bf0fff13-f9ca-4750-b225-0f279f885438" width="900px"/>
+</div>
+
+<br>
+
+- Teleport.
+
+<div>
+  <img src="https://github.com/Abnersampf/Snake-Game-V2/assets/58574013/bea7f81a-9262-4c97-abc4-fc7f9c1d57a8" width="900px"/>
 </div>

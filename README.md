@@ -4,6 +4,7 @@ This is my second version of the snake game. My only aim with this version was t
 ABOUT THE GAME:
 - No game over system yet;
 - No auto collision system yet;
+- Apple can spawn inside the snake.
 
 IMPORTANT:
 - Use .NET 7.0;

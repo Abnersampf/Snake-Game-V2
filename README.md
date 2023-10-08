@@ -14,6 +14,14 @@ IMPORTANT:
 
 <br>
 
+GIF:
+- The speed of the gif is much higher than in the game.
+<div>
+  <img src="https://github.com/Abnersampf/Snake-Game-V2/assets/58574013/43ce753b-f639-448c-9f24-82f04f550351" width="900px"/>
+</div>
+
+<br>
+
 START SCREEN:
 - The snake is represented by the character 'S' and the food by the character 'F'. The snake starts off stationary, use the W, A, S, D keys to move.
 <div>

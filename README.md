@@ -1,5 +1,5 @@
 # Snake-Game-V2
-This is my second version of the snake game. My only aim with this version was to reduce the number of lines of code compared to the other one.  This version uses a different movement and rendering mechanism, which makes it lighter. The game is not 100% complete.
+This is my second version of the snake game. My only aim with this version was to reduce the number of lines of code compared to the other one.  This version uses a different movement and rendering mechanism, which makes it much faster and lighter than the previous version. The game is not 100% complete.
 
 ABOUT THE GAME:
 - No game over system yet;
